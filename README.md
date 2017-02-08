@@ -1,2 +1,4 @@
 # iray75.github.io
-design web
+## github 배우기
+
+[githubDesktop](https://desktop.github.com/)
